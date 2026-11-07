@@ -10,8 +10,7 @@ Desenvolver e avaliar modelos de Aprendizado de Máquina integrados a um Sistema
 2. Descrição do Dataset
 2.1. Descrição dos Dados
 O projeto utiliza o conjunto de dados AMR-UTI (Antimicrobial Resistance in Urinary Tract Infections), derivado de registros eletrônicos de saúde do Massachusetts General Hospital e do Brigham & Women's Hospital (Boston, MA, EUA) entre os anos de 2007 e 2016. A coorte compreende mais de 80.000 pacientes únicos com episódios de ITU.
-
-butoDemografia	demographics_age, raça, sexo e status de veterano.
+Demografia	demographics_age, raça, sexo e status de veterano.
 Histórico Microbiológico	micro_prev_resistance_* (infecções anteriores e perfis prévios de resistência microbiológica).
 Histórico de Mediações	medication_* (prescrições recentes de antibióticos e outros fármacos).
 Comorbidades	comorbidity_* (índices de comorbidade baseados na classificação de Elixhauser).
